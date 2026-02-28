@@ -1,0 +1,7 @@
+// this is a comment?
+PUSH 10
+PUSH 20
+ADD
+PRINT
+PUSH 0
+JMPZ 0
